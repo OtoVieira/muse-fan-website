@@ -7,7 +7,10 @@
 
 Website fã multi-página dedicado à banda Muse, com discografia, tour, história da banda e formulário de contacto com validação em JavaScript puro. Projeto de formação do curso de Full Stack Web Development, focado em HTML semântico, layout responsivo com o grid do Bootstrap e interatividade sem frameworks.
 
-> 📷 _[Adiciona aqui 2-3 screenshots das páginas: Home, Álbuns e Contacto]_
+> 📷
+> <img width="1899" height="990" alt="image" src="https://github.com/user-attachments/assets/381b3e3f-67dd-48d3-b59c-20e3c602f875" />
+> <img width="1896" height="990" alt="image" src="https://github.com/user-attachments/assets/4f82cd9d-9424-4012-84e1-42eda4572e74" />
+
 > 🔗 _[Link para a demo ao vivo no GitHub Pages, depois de publicares]_
 
 ## ✨ Destaques
