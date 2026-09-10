@@ -43,7 +43,7 @@ Não precisa de servidor nem instalação — é um site estático:
 1. Fazer download ou clone do repositório
 2. Abrir o ficheiro `index.html` diretamente no browser
 
-_(ou visitar a versão publicada em GitHub Pages, se disponível — ver link no topo)_
+_(ou visitar a versão publicada em GitHub Pages — ver link no topo)_
 
 ## ✅ Validação do formulário de contacto
 
